@@ -246,4 +246,3 @@ In this lesson, you learned how to:
 Experiment with these techniques in your projects to create engaging and dynamic user experiences! 🚀
 
 Happy coding! 👩‍💻👨‍💻
-```
